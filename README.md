@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Snake -->
 <div align="center">
-![snake gif](https://github.com/Xeahmed/Xeahmed/blob/output/github-snake-dark.svg)
-  </div>
+  <img src="https://github.com/Xeahmed/Xeahmed/blob/output/github-snake-dark.svg" alt="snake gif"/>
+</div>
+
